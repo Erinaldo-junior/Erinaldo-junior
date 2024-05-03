@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou Erinaldo Junior
 
 - 🔭 Hoje trabalho como estagiario na Politec
 - 🌱 Estudante de Python, CSS, HTML
