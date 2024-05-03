@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como estagiario na Politec
 - 🌱 Estudante de Python, CSS, HTML
-- ⚡ Fun fact: Sou estudando no Instituto Federal de Rondônia - IFRO
+- ⚡ Sou estudando no Instituto Federal de Rondônia - IFRO
 -->
 
 <div style="display: inline_block"><br>
